@@ -1,4 +1,4 @@
-## Getting Started
+## About
 
 Program ini dibuat untuk memenuhi tugas Ujian Akhir Semester pada mata kuliah Pemrograman Java.
 
